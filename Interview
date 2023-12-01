@@ -1,0 +1,2 @@
+What is callback hell? 
+This is a big issue caused by coding with complex nested callbacks. Here, every callback takes an argument that is a result of the previous callbacks.  if there is an error in one function, then all other functions are affected.
